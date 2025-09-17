@@ -7,6 +7,7 @@ Welcome to DS217! Please take a few minutes to introduce yourself by answering t
 
 ## 2. What are you looking for out of this class?
 [What do you hope to gain? Specific skills, knowledge, applications, career goals?]
+How to program 
 
 ## 3. What are you most looking forward to or tentative about?
 [What excites you about programming/data science? What concerns or uncertainties do you have?]
